@@ -1,0 +1,101 @@
+<div class="_1-2Iqu row">
+ <div class="col col-7-12">
+  <div class="_3wU53n">
+   Apple iPhone X (Space Gray, 64 GB)
+  </div>
+  <div class="niH0FQ">
+   <span class="_2_KrJI" id="productRating_LSTMOBEXRGVCMGVCGGQFLD1LA_MOBEXRGVCMGVCGGQ_">
+    <div class="hGSR34">
+     4.6
+     <img class="_2lQ_WZ" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/>
+    </div>
+   </span>
+   <span class="_38sUEc">
+    <span>
+     <span>
+      5,844 Ratings
+     </span>
+     <span class="_1VpSqZ">
+      &amp;
+     </span>
+     <span>
+      562 Reviews
+     </span>
+    </span>
+   </span>
+  </div>
+  <div class="_3ULzGw">
+   <ul class="vFw0gD">
+    <li class="tVe95H">
+     64 GB ROM |
+    </li>
+    <li class="tVe95H">
+     14.73 cm (5.8 inch) Super Retina HD Display
+    </li>
+    <li class="tVe95H">
+     12MP + 12MP | 7MP Front Camera
+    </li>
+    <li class="tVe95H">
+     A11 Bionic Chip with 64-bit Architecture, Neural Engine, Embedded M11 Motion Coprocessor Processor
+    </li>
+    <li class="tVe95H">
+     Brand Warranty of 1 Year
+    </li>
+   </ul>
+  </div>
+ </div>
+ <div class="col col-5-12 _2o7WAb">
+  <div class="_6BWGkk">
+   <div class="_1uv9Cb">
+    <div class="_1vC4OE _2rQ-NK">
+     ?59,999
+    </div>
+    <div class="_3auQ3N _2GcJzG">
+     ?
+     <!-- -->
+     91,900
+    </div>
+    <div class="VGWI6T">
+     <span>
+      34% off
+     </span>
+    </div>
+   </div>
+  </div>
+  <div class="_3n6o0t">
+   <img height="21" src="//img1a.flixcart.com/www/linchpin/fk-cp-zion/img/fa_8b4b59.png"/>
+  </div>
+  <div class="_3gVem9">
+   <span>
+    Up to
+    <span class="_2xjzPG">
+     ?17,900
+    </span>
+    Off on Exchange
+   </span>
+  </div>
+  <div class="_3MCpsc">
+   EMI starting from
+   <span class="_1JT2XE">
+    ?
+    <!-- -->
+    1993
+    <!-- -->
+    /month
+   </span>
+  </div>
+  <div class="OPF9v4 _2WQngC">
+   <span class="_1xZuAn">
+    Offers
+   </span>
+   <ul class="_3U7997">
+    <li class="_1ZRRx1">
+     No Cost EMI
+    </li>
+    <li class="_1ZRRx1">
+     Special Price
+    </li>
+   </ul>
+  </div>
+ </div>
+</div>
