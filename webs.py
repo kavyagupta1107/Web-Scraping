@@ -27,13 +27,14 @@ f=open(filename,"w")
 
 headers="product_name,pricing,ratings\n"
 f.write(headers)
-
+#for all such containers
 for container in containers:
 	product_container=container.findAll("div",{"class":"_3wU53n"})
 	product_name=product_container[0].text
 
 	price_container=container.findAll("div",{"class":"col col-5-12 _2o7WAb"})
 	price=price_container[0].text.strip()
+	#striping for any extra characters
 
 	rating_conatiner=container.findAll("div",{"class":"niH0FQ"})
 	rating=rating_conatiner[0].text
@@ -54,5 +55,5 @@ for container in containers:
 
 	print(product_name.replace(",","|")+","+final_price+","+final_rating+"\n")
 	f.write(product_name.replace(",","|")+","+final_price+","+final_rating+"\n")
-
+        #writing to products.csv
 f.close()
